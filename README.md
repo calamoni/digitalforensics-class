@@ -12,4 +12,4 @@ https://gchq.github.io/CyberChef/
 
 https://www.ncsc.gov.uk/cyberfirst/girls-competition-example-challenges
 
-app.packetsafari.com
+https://app.packetsafari.com
